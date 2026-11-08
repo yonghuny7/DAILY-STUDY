@@ -1,0 +1,9 @@
+{
+  "name": "매일 쑥쑥 학습",
+  "short_name": "쑥쑥학습",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f7fd",
+  "theme_color": "#1765d1",
+  "lang": "ko"
+}
